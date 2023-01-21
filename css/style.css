@@ -1,0 +1,135 @@
+/* *{
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+*,*:before,:after{
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+:focus,:active{outline: none;}
+a:focus,a:active{outline: none;}
+nav,footer,header,aside{display: block;}
+html,body{
+	height: 100%;
+	width: 100%;
+	font-size: 100%;
+	line-height: 1;
+	font-size: 16px;
+	-ms-text-size-adjust: 100%;
+	-moz-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+}
+input,button,textarea{font-family: inherit;}
+input::-ms-clear{display: none;}
+button{cursor: pointer;}
+button::-moz-focus-inner{padding: 0;border: 0;}
+a,a:visited{text-decoration: none;}
+a:hover{text-decoration: none;}
+ul li {list-style: none;}
+img{vertical-align: top;}
+h1,h2,h3,h4,h5,h6{font-size: inherit;font-weight: 400;}
+
+@import url(https://fonts.googleapis.com/css?family=Poppins:regular,500,600&display-swap);
+@font-face{
+	font-family: CalSans;
+	font-display: swap;
+	src: url(../fonts/fonts/webfonts/CalSans-SemiBold.woff) format("woff2"), url(../fonts/fonts/webfonts/CalSans-SemiBold.woff2) format("woff");
+	font-weight: 400;
+	font-style: normal;
+}
+body{
+	line-height: 1;
+	font-family: Poppins;
+	color: #666666;
+	}
+
+	.header__container {
+		display: inline-block;
+		margin: 65px 0px 0px 120px;
+		border: 1px solid black;
+		width: 600px;
+		padding: 5px 5px;
+	}
+	.header__logo {
+		display: inline-block;
+		background: url(../img/icon/logo.svg) no-repeat;
+		width: 130px;
+		height: 30px;
+		border: 1px solid black;
+		margin-right: 10px;
+	}
+	.menu__list {
+		display: inline-block;
+		border: 1px solid black;
+	
+	}
+	.menu__item {
+		display: inline-block;	
+		margin-right: 56px;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 16px;
+      line-height: 24px;
+		opacity: 0.8;
+	}
+	.menu__link {
+	}
+	.text__menu__link{
+		color: #666666;
+		font-family: 'Poppins', sans-serif;
+	}
+	.left__img{
+		display: inline-block;
+		background: url(../img/Guitar\ top.png) right no-repeat;
+		width: 672px;
+		height: 586px;
+		border: 1px solid black;
+		margin-left: 800px;
+	}
+	.block__app {
+	}
+	.First__abzaz {
+		font-family: 'Cal Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 56px;
+line-height: 67px;
+
+color: #121212;
+margin-bottom: 16px;
+	}
+	.text__guitars {
+		color: #FF6428;
+	}
+	.second__abzaz {
+		font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+		margin-top: 5px;
+	}
+	.im1 {
+		display: inline-block;
+		margin-top: 20px;
+		width: 190px;
+		height: 60px;
+		background-color: #FF6428;
+		border-radius: 100px;
+		
+	}
+	.text__Get__the__App{
+		display: block;
+		color: white;
+		font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+margin: 18px 40px;
+
+	}
+	.im2 {
+	}
+	.im3 {
+	} */
