@@ -123,6 +123,12 @@ h1, h2, h3, h4, h5, h6 {
 .menu__link {
   margin-right: 56px;
   color: rgba(0, 0, 0, 0.5529411765);
+  transition-duration: 500ms;
+
+}
+
+.menu__link:hover {
+  text-shadow: 5px 2px 2px #AEAEAE;
 }
 
 .First__abzaz {
@@ -508,4 +514,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .footer li {
   margin-bottom: 20px;
+}
+
+html {
+  scroll-behavior: smooth;
 }
